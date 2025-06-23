@@ -1,4 +1,4 @@
-# Trabalho-GrauA
+# Trabalho-GrauB
 
 Trabalho desenvolvido para a disciplina *Algoritmos e Programação: Fundamentos*.
 
@@ -22,7 +22,9 @@ Este programa foi feito em *linguagem C* e pode ser executado no [OnlineGDB](htt
 
 ## 💡 Sobre o Programa
 
-> O programa simula a propagação de um vírus em uma população ao longo dos dias, considerando taxa de contágio, vacinação e eventos aleatórios.
+> O programa simula batalhas entre dois times compostos por personagens de diferentes classes: Guerreiro, Mago, Caçador, Paladino e Bárbaro.  
+Os personagens possuem características únicas de ataque, defesa e habilidades especiais que influenciam o combate por turnos. O combate ocorre automaticamente após a criação dos times, e termina quando todos os personagens de um dos times forem derrotados.
+
 
 ## 📌 Observações
 
